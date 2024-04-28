@@ -46,6 +46,7 @@ a {
     border-width: 1px;
     padding: 10px 40px;
     margin-left: 40px;
+    cursor: pointer;
 }
 
 /* ------------ SLIDE ------------ */
